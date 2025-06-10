@@ -1,0 +1,69 @@
+body {
+       background-color: #b0cae4;
+       font-family: 'Segoe UI', sans-serif;
+    
+}
+
+h1 {
+    text-align: center;
+     color: #0037ff;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+form {
+    max-width: 500px;
+    margin: auto;
+    background-color: #ffafaf;
+    padding: 25px 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+label {
+    display: block;
+    margin-top: 15px;
+    font-weight: 500;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 8px 12px;
+    margin-top: 5px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+}
+
+div[th\\:if] {
+    color: red;
+    font-size: 0.9rem;
+    margin-top: 4px;
+}
+
+button[type="submit"] {
+    margin-top: 20px;
+    width: 100%;
+    padding: 10px;
+    background-color: #0d6efd;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+button:hover {
+    background-color: #0b5ed7;
+}
+
+.a[href*="/doctors"] {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    color: #0d6efd;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.a:hover {
+    text-decoration: underline;
+}

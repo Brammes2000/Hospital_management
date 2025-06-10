@@ -1,0 +1,65 @@
+body {
+    background-color: #b0cae4;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+h2 {
+    text-align: center;
+    color: #0037ff;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+h1 {
+    color: #0037ff;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 16px;
+    margin: 10px 0;
+    padding: 0 20px;
+    color: #212529;
+}
+
+.ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0 auto 30px;
+    max-width: 800px;
+}
+
+.li {
+    background-color: #c47979;
+    padding: 15px 20px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border-left: 4px solid #0d6efd;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.li span {
+    font-weight: 500;
+    color: #343a40;
+    margin-right: 10px;
+}
+
+.a {
+    margin-left: 10px;
+    color: #dc3545;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.a:hover {
+    text-decoration: underline;
+}
+
+.a[href*="/patients"] {
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+    font-weight: 600;
+    color: #0d6efd;
+}

@@ -1,0 +1,37 @@
+
+.background-image {
+    background-image: url('/hospital.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.card-container {
+            position: relative;
+            z-index: 2;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transform: translateY(-10%);
+        }
+
+        .welcome-card {
+            background-color: rgba(255, 233, 233, 0.95);
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+            text-align: center;
+            max-width: 400px;
+            width: 100%;
+        }
+
+        .welcome-card h1 {
+            margin-bottom: 20px;
+        }
+
+        .welcome-card a {
+            margin: 10px;
+        }
