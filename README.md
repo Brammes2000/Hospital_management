@@ -81,12 +81,12 @@ lays a strong foundation for developing more advanced healthcare solutions with 
 
 
 Developer Info
-  - Author: Aruneshwaran
+  - Author: Brammeswaran V
   - Tools: IntelliJ, MongoDB Compass, Postman (for testing REST APIs)
-  - Application Live link : https://hospital-management-mini-2.onrender.com
+  - Application Live link :https://hospital-management-88i3.onrender.com
 Note :
    Once you click the link it may take 1 or 2 mins to load the application so wait patiently.
   	Login info:-
   	admin:
-  		username = doctor
-  		password = doctor
+  		username = Brammeswaran
+  		password = Brammes$5
